@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>uni.isw</groupId>
-	<artifactId>241CC341SpringSigconBackend</artifactId>
+	<artifactId>241CC341SpringSotorBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>241CC341SpringSigconBackend</name>
+	<name>241CC341SpringSotorBackend_nueva</name>
 	<description>Spring Boot SigconBackend</description>
 	<properties>
 		<java.version>17</java.version>
