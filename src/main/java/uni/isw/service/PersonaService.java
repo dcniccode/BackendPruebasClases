@@ -27,5 +27,4 @@ public class PersonaService {
         personaRepository.deleteById(id);
     }
     
-    
 }
